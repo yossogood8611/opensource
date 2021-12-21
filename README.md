@@ -14,4 +14,4 @@ https://www.kaggle.com/c/petfinder-pawpularity-score/data
 
 ## 3. 랜덤 포레스트 결과
 랜덤 포레스트를 구글링 하여 어느 feature의 중요도가 높은지 확인하였고, 실제로 연관있다고 한 feature와 실제 중요하다고 판단한 feature가 동일하게 나옴을 볼 수 있었다.
-￼
+![RF_model](./Untitled.png)
